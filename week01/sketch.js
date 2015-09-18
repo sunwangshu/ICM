@@ -33,4 +33,6 @@ function draw() {
   rotate(4*PI/7);
   bezier(0,0,-30,-100,-30,-140,0,-240);
   bezier(0,0,30,-100,30,-140,0,-240);
+  
+  //hihihihihihi serena
 }
